@@ -1,0 +1,4 @@
+c:\users\usuario\documents\visual studio 2012\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.exe
+c:\users\usuario\documents\visual studio 2012\Projects\AsyncAwait\AsyncAwait\obj\Debug\AsyncAwait.pdb
+c:\users\usuario\documents\visual studio 2012\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.exe
+c:\users\usuario\documents\visual studio 2012\Projects\AsyncAwait\AsyncAwait\bin\Debug\AsyncAwait.pdb
